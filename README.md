@@ -2,181 +2,169 @@
 <h3 align="center">Computer Science Undergraduate | Full Stack Developer | Flutter Developer | AI Enthusiast</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gopinath2404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Gopinath2404">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://img.shields.io/badge/GitHub-Gopinath2404-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gopinath-d-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopinath%20D-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:gopinathjaisri7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.E. Computer Science and Engineering Student (2023–2027)  
-🏫 K.S.R Institute of Engineering and Technology  
-📊 Current CGPA: **7.95**
+🎓 **B.E. Computer Science and Engineering (2023–2027)**
 
-💻 Passionate Full Stack Developer who enjoys building scalable web and mobile applications.
+🏫 **K.S.R Institute of Engineering and Technology**
 
-🚀 Interested in
+📊 **CGPA:** **7.95**
 
-- Full Stack Development
-- Mobile App Development
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Firebase
-- AWS
+💻 Passionate Full Stack Developer with experience in Web, Mobile and AI applications.
 
-🌱 Currently learning
+🚀 I enjoy building scalable applications that solve real-world problems.
+
+---
+
+# 🚀 Interests
+
+- 💻 Full Stack Development
+- 📱 Mobile App Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁ Cloud Computing
+- 🔥 Firebase
+- ☁ AWS
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced React
 - Flutter
 - AWS Cloud
 - System Design
-- Artificial Intelligence
+- Generative AI
 
 ---
 
-## 📫 Connect with Me
+# 🛠 Tech Stack
 
-📧 **Email:** gopinathjaisri7@gmail.com
+### Languages
 
-📱 **Phone:** +91 7010879522
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/gopinath-d-/
+### Frontend
 
-💻 **GitHub:** https://github.com/Gopinath2404
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+
+### Database & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ## 👨‍💼 Employee Management System
 
-A complete employee management platform with attendance monitoring and Hikvision biometric integration.
-
-### Features
-
-- Employee Management
-- Attendance Monitoring
+- Attendance Management
+- Employee Records
 - Hikvision Integration
 - Firebase Authentication
-- Firebase Cloud Storage
-- Role-based Access Control
+- Role-Based Login
 
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- Firebase
+**Tech:** React • Node.js • Express • Firebase
 
 ---
 
 ## 🎯 Smart Attendance & Dress Code Analysis
 
-An AI-powered attendance system that validates employee attendance and dress code using computer vision.
-
-### Features
-
 - Face Recognition
-- Dress Code Validation
-- Real-time Attendance
-- AI Processing
-- Dashboard
+- Dress Code Detection
+- Attendance Automation
+- AI-Based Validation
 
-**Tech Stack**
-
-- React
-- Python
-- Supabase
+**Tech:** React • Python • Supabase
 
 ---
 
 ## 🎓 PlaciPY – Placement Assessment Portal
 
-A placement preparation platform for educational institutions.
-
-### Modules
-
 - Admin Dashboard
 - Staff Dashboard
 - Trainer Dashboard
 - Student Dashboard
-- Online Assessments
+- Online Tests
 - Placement Tracking
 
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- Firebase
+**Tech:** React • Node.js • Firebase
 
 ---
 
 ## 🛠 Local Worker & Vendor Connection Platform
 
-A platform connecting local service providers with customers.
-
 🏆 **Top Project – PRASKLA FUTURE X Hackathon**
 
-### Features
-
-- Vendor Registration
 - Customer Booking
-- Service Categories
+- Vendor Registration
 - Secure Authentication
 
 ---
 
 ## 💇 Salonify
 
-Salon booking and management application.
+Salon Booking & Management App
 
-### Features
-
-- Online Booking
+- Appointment Booking
 - Authentication
-- Real-time Database
-- Appointment Scheduling
+- Firebase Database
 
-**Tech Stack**
-
-- Flutter
-- JavaScript
-- Firebase
+**Tech:** Flutter • JavaScript • Firebase
 
 ---
 
-# 💼 Internship Experience
+# 💼 Internship
 
-## Developer Intern
+## 💻 Developer Intern
 
-**Praskla Technology**
+**Praskla Technology (7 Months)**
 
-📅 7 Months
-
-Worked on
-
-- Full Stack Development
-- Flutter Development
-- Firebase
 - React
-- AWS Cloud
+- Flutter
+- Firebase
+- AWS
+- Full Stack Development
 
 ---
 
-## Data Science Intern
+## 📊 Data Science Intern
 
-**Accent Techno Soft**
+**Accent Techno Soft (1 Month)**
 
-📅 1 Month
-
-Project
-
-- Diabetes Prediction System
-- Machine Learning using Python
+- Diabetes Prediction
+- Python
+- Machine Learning
 
 ---
 
@@ -184,55 +172,15 @@ Project
 
 🏅 AWS Global Certification
 
-🏅 Selected for MSME Hackathon
+🏅 MSME Hackathon Participant
 
-🏅 Selected for Smart India Hackathon
+🏅 Smart India Hackathon Participant
 
-🏅 Selected for GDG 24-Hour Hackathon
+🏅 GDG 24-Hour Hackathon
 
-🏅 Selected for GDG Solution Challenge – Season 2
+🏅 GDG Solution Challenge – Season 2
 
-🏅 Winner / Top Project – PRASKLA FUTURE X Hackathon
-
----
-
-# 💻 Technical Skills
-
-## Languages
-
-- Python
-- Java (Basic)
-- JavaScript
-- Dart
-
-## Frontend
-
-- HTML5
-- CSS3
-- React
-- Flutter
-- React Native
-
-## Backend
-
-- Node.js
-- Express.js
-
-## Databases
-
-- Firebase
-- Supabase
-
-## Cloud
-
-- AWS
-
-## Other Skills
-
-- Machine Learning
-- Data Visualization
-- Generative AI
-- Graphics Design
+🏅 PRASKLA FUTURE X Hackathon – Top Project
 
 ---
 
@@ -240,19 +188,23 @@ Project
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gopinath2404&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath2404&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gopinath2404&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠 Tools
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,dart,flutter,firebase,aws,git,github,vscode"/>
 
@@ -260,36 +212,20 @@ Project
 
 ---
 
-# 🎯 Career Objective
+# 📫 Contact Me
 
-> Highly motivated Computer Science undergraduate seeking an entry-level Software Development role where I can leverage my technical skills, real-time project experience, and problem-solving abilities to build impactful software solutions while continuously learning and contributing to organizational growth.
-
----
-
-# 📌 Featured Repositories
-
-⭐ Employee Management System
-
-⭐ Smart Attendance & Dress Code Analysis
-
-⭐ PlaciPY – Placement Assessment Portal
-
-⭐ Local Worker & Vendor Connection Platform
-
-⭐ Salonify
-
-⭐ Diabetes Prediction System
+- 📧 **Email:** gopinathjaisri7@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gopinath-d-/
+- 💻 **GitHub:** https://github.com/Gopinath2404
 
 ---
 
-## 💡 Fun Fact
+# 💡 Quote
 
-*"I enjoy turning innovative ideas into real-world applications through clean code, modern technologies, and continuous learning."*
+> **"Code with passion. Learn continuously. Build solutions that make an impact."**
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
+⭐ Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
 </p>
